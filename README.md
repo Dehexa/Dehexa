@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dehexa
+- 👀 I’m interested in game dev and music production.
+- 🌱 I’m currently learning python.
+- 📫 toxicflarealert@gmail.com
